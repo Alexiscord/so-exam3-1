@@ -4,7 +4,9 @@
 **Docente:** Daniel Barragán C.  
 **Estudiante:** Alexis Córdoba Narváez  
 **Código:** A00232548  
-**Correo:** alexiscord1@gmail.com
+**Correo:** alexiscord1@gmail.com  
+**URL:** https://github.com/Alexiscord/so-exam3-1/  
+
 
 ### Objetivos
 * Implementar servicios web que puedan ser consumidos por usuarios o aplicaciones
